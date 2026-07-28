@@ -1,4 +1,4 @@
-#logistic_regression_project
+Logistic Regression Projects
 
 This repository contains two beginner-friendly Logistic Regression machine learning projects implemented in Python using Google Colab. The projects demonstrate the complete machine learning workflow, from data preprocessing to model evaluation, using real-world placement datasets.
 
